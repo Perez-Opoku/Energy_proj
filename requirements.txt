@@ -1,0 +1,14 @@
+numpy
+pandas
+matplotlib
+scikit-learn
+ipykernel
+scipy
+seaborn
+pylint
+black
+tensorflow
+torch
+fastapi
+sqlalchemy
+hvplot
