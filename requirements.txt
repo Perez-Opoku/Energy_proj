@@ -12,3 +12,4 @@ torch
 fastapi
 sqlalchemy
 hvplot
+holoviews
